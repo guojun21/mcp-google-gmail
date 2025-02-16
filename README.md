@@ -1,4 +1,4 @@
-# Map-Mail MCP Server
+# Gmail MCP Server
 
 A powerful Model Context Protocol (MCP) server providing comprehensive Gmail integration with LLM processing capabilities.
 
