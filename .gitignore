@@ -1,4 +1,6 @@
 dist/
 node_modules/
 credentials.json
-.env
+.envbuild/
+.DS_Store
+*.log
