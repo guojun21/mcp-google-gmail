@@ -4,3 +4,8 @@ credentials.json
 .envbuild/
 .DS_Store
 *.log
+*.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
